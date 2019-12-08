@@ -4,12 +4,17 @@ In order to follow the command from my teacher, I deleted the .py source but upl
 I will continuously upload .exe file. The .py source will be uploaded after I submit this homework.
 
 在第二次实验中，老师介绍了PyQt5这一GUI库，由于Qt Designer的存在，使得高效开发成为可能，我于是使用此库完成了这个项目。
+
 环境介绍：
+
 编程语言：Python 3.7.4
+
 编译环境：JetBrains PyCharm Community Edition 2019.2.3
+
 所需库及其版本：
 numpy           1.17.2
 pip             19.3.1
+
 PyInstaller     3.5
 PyQt5           5.11.3
 PyQt5-sip       4.19.19
