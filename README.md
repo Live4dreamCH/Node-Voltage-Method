@@ -57,3 +57,5 @@ https://zhuanlan.zhihu.com/p/48373518?utm_source=qq&utm_medium=social&utm_oi=991
 
 《Python3面向对象编程（第2版）》[加]Dusty Phillips 著 孙雨生 译 
 电子工业出版社 （图书馆索书号：TP311.56 1323(2018)）
+
+# 由于打包出来的.exe文件过大，无法上传，请有需要的同学自行打包，注意将.exe文件与图片放到一起才能正常显示
